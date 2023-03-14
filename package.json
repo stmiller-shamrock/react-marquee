@@ -1,5 +1,5 @@
 {
-  "name": "react-marquee",
+  "name": "@eristoddle/react-marquee",
   "version": "1.0.0",
   "description": "A <marquee> component for React",
   "main": "lib/index.js",
@@ -25,8 +25,8 @@
     "babel-preset-stage-0": "^6.5.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.13.1",
+    "react-dom": "^0.14.0 || ^15.0.0 || ^16.13.1"
   },
   "dependencies": {
     "prop-types": "*"
